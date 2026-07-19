@@ -93,7 +93,7 @@ plt.show()
 * QCOM --> Qualcomm Incorporated --> Information Technology
 * CRM --> Salesforce, Inc. --> Information Technology
 * NEE --> NextEra Energy, Inc. --> Utilities
-* DUK --> Duke Energy Corporation --> Utilities
+* DUK --> Duke Energy Corporation --> Utilities 
 
 
 The selected stocks are designed to provide a diversified and representative sample of the U.S. equity market (S&P 500) across major economic sectors. The goal is not only to include large, liquid, and widely traded stocks, but also to capture heterogeneous risk–return profiles suitable for multivariate statistical analysis such as PCA and clustering.
